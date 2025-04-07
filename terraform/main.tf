@@ -1,11 +1,11 @@
 provider "google" {
-  project = var.project_id
-  region  = var.region
+  project = "harness-455805"
+  region  = "us-central1-a"
 }
 
 resource "google_container_cluster" "primary" {
-  name     = var.cluster_name
-  location = var.region
+  name     = "my-k8s-cluster"
+  location = "us-central1-a"
 
   remove_default_node_pool = true
   initial_node_count       = 1
@@ -27,10 +27,10 @@ resource "google_container_cluster" "primary" {
 
 resource "google_container_node_pool" "primary_nodes" {
   name       = "primary-node-pool"
-  location   = var.region
+  location   = "us-central1-a"
   cluster    = google_container_cluster.primary.name
 
-  node_count = var.node_count
+  node_count = 2
 
   node_config {
     preemptible  = false
