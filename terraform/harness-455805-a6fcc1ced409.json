@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "harness-455805",
+  "private_key_id": "a6fcc1ced409cf5c169214b78a1c11275b2eeed9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIY0QdTcNU1gdP\nKANBaNEcTsS7toSbfY9oDGDYt0V96VsaTqAoi9mW9KjVf2s6uLxPhvAfS4LqzHCu\nPBix90BhsUxYuWLqZ6HSNs6fjh1pymZeiNmxfymssGbNzA7gJoqNBHl+Gq9nHj+Z\nU4R9H/FUVc0JWB+7IN1np+Hu0RBJep8nW8ZT3v4vOYH5G3NjCunvrgvP0ux+gkML\netvzRxdA0Es7pywjuqCSMgJN1UQJGeXLSolGQbv/8vDxDIFh4wBYmgBfLvXZSvA/\n+oTj4wWHQ/NepwG7T4TOP33XBCBbVZA9azBZffvhpN+t5fyAGqpOlkTGHoHxCAlQ\newfYTh+JAgMBAAECggEAD21hAZaKir39ixEMCx2cN78yszbuh6AHid2mGRkm/vYX\nvvM9rlFx+4azdthb84XkbYT4eJhSKGx74lYbGpxr9vl05MHFBUHcOfhhOPRyfEIK\nVo3XoKwnE7Xy/DYRER22ffvRtK0uQtSX1eCRqyZp6HHAms8PhlMV6JSKtt2ekOF+\nbxStAbcJnUHAfAsIhaoV3N1JfFFVTFKWkUydKaRyswE40W8uS4IhhxJY584K4RQE\nuNc8QL3WClSxTs9QQn62F4+d4icqLSpW/1m+akQ0TQulpSBSy7ietCUi+Mxo8U2Z\ncIKj9Ny+M9bll4tzahi1Ngqd1BQnqXHE/C0TKVUdQQKBgQDwIpaFusNSquzJocW+\nUzt2bwam8nTW0Z2I9j3/X97+SkeGY6rAXWrNbyKKV7oB3ZLz0i7xC7SsyLZIp00g\npI9MTsTT+NilQKQEDsEjrZr5/IWRUHZJ37bvV+Tqjyj5lI9uzY9J7FHwCmwTUlPj\nHbTYvfg0FZHdfWfcSG6zKslt+QKBgQDVoG4UXB5RKY+hsmi7Fu8CTti+nYxGp7/S\nAwN0BD4yGzJYYfgFP5R/SBsQPp03Glt/fUH/r2wQtD6HFGpcxC2YK1WyQk9/yqDg\nYs7+UpZbMDquoYkvMSUh9/KOT8b4hIhyJ+70OiUEBdhmJf0otHXwEkMzFI4tfZ/m\ngguacpjiEQKBgQDQn6wYCLbzFi5byqEKhjMt5K1p01Dw5PGxcQVR3Y/VauES/3n0\nX/SPABOJD0g5oK+wBpXjsyDH0CSVoEvgpTcdu31DD3ngr/UO1Wa0wXnX36yHH9l0\nutiqvbjSk4estYWbZRksxxQ0sElOzAK3WTKp7vk4/thYDkByX7dVD0IquQKBgQCK\nktbVPiwsWdlh+mkVc3r29E6E1433BznW8T18NIRj3GB8FJDeVq/tIMjtcLBq3h4c\nRRRa12AyNbmZxhR4uIka/IFKcNlA/B//bhj3wHroDBEE1qQ2iJqdvkkJJ5bZ/p7D\n7kODCXSZd3E4Ucw2a1lVsYMFz3+q4qKm1BTSyyOBAQKBgGN9y7QKHOd43qd2MnA0\nFFMhiFJYE7+UFCe7bIoed0UxzipZYcKc+kHkG1VCPnhOOTbmUJMF+Hkv7qUAiIXI\n9ifISHwUNKamkr4uJFlD/wsCR7OO6MXgj0XNTZwtkfOe9pEwfgkA5S+dWcoP06mD\nAd/ErqLVj/MpoqwCxMYkp3wN\n-----END PRIVATE KEY-----\n",
+  "client_email": "harness-srvacc@harness-455805.iam.gserviceaccount.com",
+  "client_id": "100700229680925649091",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/harness-srvacc%40harness-455805.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
