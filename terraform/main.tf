@@ -1,7 +1,6 @@
 provider "google" {
-  credentials = file("harness-455805-service-account.json")
-  project     = "harness-455805"
-  zone        = "us-central1-a"
+  project = "harness-455805"
+  region  = "us-central1-a"
 }
 
 resource "google_container_cluster" "primary" {
@@ -11,6 +10,7 @@ resource "google_container_cluster" "primary" {
   remove_default_node_pool = true
   initial_node_count       = 1
 
+  networking_mode = "VPC_NATIVE"
   ip_allocation_policy {}
 
   node_config {
