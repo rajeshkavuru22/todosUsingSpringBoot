@@ -1,4 +1,5 @@
 provider "google" {
+  credentials = file("")
   project = "harness-455805"
   region  = "us-central1-a"
 }
